@@ -16,7 +16,7 @@ function startBot() {
   const bot = mineflayer.createBot({ 
     host: 'ARHCRAFT.srein.xyz', 
     port: 25795, 
-    username: 'JamesXd', 
+    username: 'Zyrileee', 
     password: process.env.PASSWORD, // Get password from Render Environment Variables
     version: '1.21.11', 
     auth: 'offline', // Changed to microsoft. Use 'offline' if server is cracked
